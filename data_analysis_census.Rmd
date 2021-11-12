@@ -1,0 +1,17 @@
+---
+title: "data_analysis_census"
+author: "Sebastian Kaltenbach"
+date: "11/12/2021"
+output: html_document
+---
+
+```{r}
+library(tidycensus)
+library(tidyverse)
+
+census_api_key("72ced2515c5a0d9cc250f2fd9772b7cc36aad262")
+```
+
+```{r}
+
+```
